@@ -10,7 +10,7 @@ import org.json.simple.JSONObject;
 import io.restassured.RestAssured;
 
 import static org.junit.Assert.assertEquals;
-
+// this is a delete script
 public class DeleteProducts {
 
     public RequestSpecification httpRequest;
