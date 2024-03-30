@@ -7,4 +7,4 @@ Feature: insert products using  DELETE API
 
     Examples:
       | ProductNumber |
-      | 6             |
+      | 8             |
